@@ -13,6 +13,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadhikaTiwari09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=radhikatiwari09&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=radhikatiwari09&label=Profile%20views&color=0e75b6&style=flat"
+    alt="radhikatiwari09"
+  />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
